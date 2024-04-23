@@ -11,7 +11,7 @@ Vì vậy, reranker đến sau giai đoạn này và thực hiện một giai đ
 Reranker đóng vai trò quan trọng trong việc cải thiện hiệu suất của hệ thống tìm kiếm và đưa ra các kết quả chính xác hơn và đáp ứng tốt hơn nhu cầu của người dùng. Các phương pháp reranking cũng có thể được áp dụng trong các lĩnh vực khác của xử lý ngôn ngữ tự nhiên, như phân tích cảm xúc, dịch thuật, hay tổng hợp nội dung.
 
 #### Tại sao cần quan tâm đến Reranker?
-
+(ChatGPT 3.5)
 Việc quan tâm đến reranker là rất quan trọng trong các hệ thống xử lý ngôn ngữ tự nhiên và tìm kiếm thông tin vì những lý do sau:
 
 1. Cải thiện chất lượng kết quả: Reranker giúp cải thiện chất lượng của các kết quả được đưa ra cho người dùng. Khi một hệ thống tìm kiếm ban đầu chỉ sử dụng các tiêu chí đơn giản như khớp từ khóa để trả về các kết quả ban đầu, việc áp dụng reranker sẽ giúp xếp hạng lại các kết quả này dựa trên các đặc điểm phức tạp hơn như độ phù hợp nội dung, tính đa dạng, hoặc sự tương đồng với nhu cầu của người dùng.
@@ -19,7 +19,8 @@ Việc quan tâm đến reranker là rất quan trọng trong các hệ thống 
 3. Tối ưu hóa trải nghiệm người dùng: Việc cải thiện chất lượng của kết quả tìm kiếm thông qua reranker có thể tăng cường trải nghiệm người dùng. Khi người dùng nhận được những kết quả chất lượng hơn và phù hợp hơn, họ sẽ có một trải nghiệm tìm kiếm tích cực hơn và có xu hướng sử dụng hệ thống tìm kiếm này thường xuyên hơn.
 4. Áp dụng trong nhiều lĩnh vực: Khái niệm reranker không chỉ áp dụng trong lĩnh vực tìm kiếm thông tin mà còn trong nhiều lĩnh vực khác của xử lý ngôn ngữ tự nhiên như dịch thuật, tổng hợp nội dung, hay phân tích cảm xúc. Việc áp dụng reranker có thể giúp cải thiện chất lượng và hiệu suất của các hệ thống trong các lĩnh vực này.
 5. Sự tiến bộ của công nghệ: Với sự tiến bộ của các thuật toán học máy và xử lý ngôn ngữ tự nhiên, reranker trở thành một công cụ quan trọng để tối ưu hóa hiệu suất của các hệ thống dựa trên máy học và đảm bảo rằng những gì được đưa ra cho người dùng là tốt nhất có thể.
-6. Vì những lý do này, việc quan tâm đến reranker là cần thiết để xây dựng và cải thiện các hệ thống xử lý ngôn ngữ tự nhiên và tìm kiếm thông tin, đảm bảo rằng người dùng nhận được những trải nghiệm tốt nhất khi sử dụng các ứng dụng và dịch vụ này.
+
+Vì những lý do này, việc quan tâm đến reranker là cần thiết để xây dựng và cải thiện các hệ thống xử lý ngôn ngữ tự nhiên và tìm kiếm thông tin, đảm bảo rằng người dùng nhận được những trải nghiệm tốt nhất khi sử dụng các ứng dụng và dịch vụ này.
 
 #### Tại sao chọn jina-reranker-tiny?
 - https://huggingface.co/jinaai/jina-reranker-v1-tiny-en
