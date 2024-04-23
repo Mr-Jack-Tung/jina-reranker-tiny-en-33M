@@ -4,4 +4,4 @@
 
 #### Tại sao cần quan tâm đến Reranker?
 
-### Tại sao chọn jina-reranker-tiny?
+#### Tại sao chọn jina-reranker-tiny?
