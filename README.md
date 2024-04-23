@@ -1,4 +1,8 @@
 # jina-reranker-tiny-en (33M params)
+- ReRanker Example
+- 23 Apr 2024 _ 6.30PM
+- Tester: Mr.Jack _ www.BICweb.vn
+- https://huggingface.co/jinaai/jina-reranker-v1-tiny-en
 
 #### Reranker là gì? 
 (ChatGPT 3.5)
